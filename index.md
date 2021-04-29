@@ -1,3 +1,5 @@
 ## Welcome to Braille app
-![Image of slide]("Slide6.PNG")
+<img src="Slide6.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
