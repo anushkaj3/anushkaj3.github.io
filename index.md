@@ -1,5 +1,5 @@
 ## Welcome to Braille app
- <img src="https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/images/Slide1.PNG" padding-bottom="80%">
+ <img src="https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/images/Slide1.PNG" padding-bottom="5000px">
  <img src="https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/images/Slide2.PNG" padding-bottom="80%">
 <img src="https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/images/Slide3.PNG" padding-bottom="80%">
 <img src="https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/images/Slide4.PNG" padding-bottom="80%">
