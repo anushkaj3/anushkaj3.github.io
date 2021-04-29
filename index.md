@@ -1,3 +1,3 @@
 ## Welcome to Braille app
-![image](Slide6.png)
+![image](https://raw.githubusercontent.com/anushkaj3/anushkaj3.github.io/main/Slide6.PNG)
 
